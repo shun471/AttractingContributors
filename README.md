@@ -2,4 +2,4 @@
 
 # summer plans
 - going to Nagasaki
-- 
+- research
