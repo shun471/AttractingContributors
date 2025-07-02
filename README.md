@@ -14,5 +14,6 @@ What’s your favorite anime or which one would you recommend?
 7. MOBILE SUIT GUNDAM UNICORN
 8. My Hero Academia
 9. Frieren: Beyond Journey's End
-10. BanG Dream! It's MyGO!!!!!
-11. Sword Art Online
+10. Hunter x Hunter
+11. BanG Dream! It's MyGO!!!!!
+12. Sword Art Online
