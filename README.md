@@ -15,4 +15,7 @@ What’s your favorite anime or which one would you recommend?
 8. My Hero Academia
 9. Frieren: Beyond Journey's End
 10. Medalist
-11.
+11. Hunter x Hunter
+12. BanG Dream! It's MyGO!!!!!
+13. Sword Art Online
+
