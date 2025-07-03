@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please tell me about some recommended local spots.
 
 # List of place
-- mamemame saisai
-- Gusto
+- Kuradake Shrine (Kumamoto)
+- Ushibuka Japanese Garden (Kumamoto)
