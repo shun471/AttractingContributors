@@ -4,3 +4,4 @@
 - going to Nagasaki
 - going to EXPO
 - Going Dhaka
+- Go Fukuoka
