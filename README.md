@@ -8,5 +8,6 @@
 - Visual Media Processing 視覚メディア処理
 - Ubiquitous
 - Sequential Data Modeling 系列データモデリング
+- Robotics ロボティクス
 - Research　Writing
 
