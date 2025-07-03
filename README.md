@@ -18,4 +18,5 @@ What’s your favorite anime or which one would you recommend?
 11. Hunter x Hunter
 12. BanG Dream! It's MyGO!!!!!
 13. Sword Art Online
+14. Mushoku Tensei: Jobless Reincarnation
 
