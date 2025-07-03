@@ -2,5 +2,7 @@
 
 # summer plans
 - going to Nagasaki
+- research
 - going to EXPO
 - Going Dhaka
+
