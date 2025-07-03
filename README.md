@@ -3,3 +3,4 @@
 # summer plans
 - going to Nagasaki
 - going to EXPO
+- Going Dhaka
