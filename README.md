@@ -3,6 +3,7 @@
 - Liverpool
 - Hokkaido
 - America
+- Moon
 - Paris where my partner lives
 - London
 - Okinawa
