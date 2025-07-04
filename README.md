@@ -2,6 +2,8 @@
 - Ikoma
 - Liverpool
 - Hokkaido
+- America
+- Paris where my partner lives
 - London
 - Okinawa
 - America
