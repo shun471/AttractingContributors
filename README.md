@@ -2,6 +2,8 @@
 
 # List of place
 - Kuradake Shrine (Kumamoto)
-- Ushibuka Japanese Garden (Kumamoto)
+- Ushibuka Japanese Garden (Kumamoto
 - Tamaki Shrine(Nara)
 - Chichibugahama-Beach(Kagawa)
+- Tenma (Osaka)
+- Nara Park(Nara)
